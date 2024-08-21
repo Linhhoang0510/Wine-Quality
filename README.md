@@ -16,6 +16,7 @@ Learning Repository. It consists of two separate datasets:
 - Red wine (1599 samples)
 - White wine (4898 samples)
 which are variants of the Portuguese "Vinho Verde" wine.
+
 Besides, there are a total of 12 variables in each dataset, with input variables including fixed acidity, 
 volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, 
 density, pH, sulphates, and alcohol, and quality is the target variable.

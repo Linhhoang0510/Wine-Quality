@@ -1,4 +1,4 @@
-# Wine-Quality
+# Wine Quality Prediction
 
 A wide range of measures can affect the quality of wine, for example, grape types, wine 
 brands, climates, and so on. In general, the wine quality is evaluated in two parts. One 

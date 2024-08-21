@@ -12,13 +12,14 @@ a model to predict the wine quality based on various wine physicochemical
 measurements, providing an objective perspective to the traditional wine assessment. 
 
 The dataset used for this paper is the Wine Quality obtained from the UCI Machine 
-Learning Repository. It consists of two separate datasets, one related to red wine and 
-another for white wine, which are variants of the Portuguese "Vinho Verde" wine. The red 
-and white wine datasets include 1599 and 4898 observations respectively. Besides, there 
-are a total of 12 variables in each dataset, with input variables including fixed acidity, 
+Learning Repository. It consists of two separate datasets:
+- Red wine (1599 samples)
+- White wine (4898 samples)
+which are variants of the Portuguese "Vinho Verde" wine.
+Besides, there are a total of 12 variables in each dataset, with input variables including fixed acidity, 
 volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, 
-density, pH, sulphates, and alcohol, and quality is the target variable. It should be noted 
-that the true quality values are based on sensory tests, ranging from 0 to 10, where higher 
+density, pH, sulphates, and alcohol, and quality is the target variable.
+The true quality values are based on sensory tests, ranging from 0 to 10, where higher 
 scores indicate better quality.
 
 2 machine learning approaches were implemented to predict wine quality. The first method is the Decision Tree algorithm which 

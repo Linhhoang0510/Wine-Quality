@@ -1,3 +1,4 @@
 # Wine-Quality
 
-![Wine Quality drawio](https://github.com/user-attachments/assets/d585fbef-79b4-42c8-bd70-3466f774eceb)
+
+![Wine Quality drawio (1)](https://github.com/user-attachments/assets/4650a2d4-bd97-4641-9788-162e47d6a275)

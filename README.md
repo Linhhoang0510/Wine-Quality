@@ -27,6 +27,8 @@ scores indicate better quality.
 involves building a decision tree - a tree-shaped graph to visualize and model decision 
 paths. Another approach explores the capabilities of using neural networks in learning 
 complex data patterns and constructing and training a deep learning model for wine 
-quality prediction. 
+quality prediction.
+
+Model Workflows:
 
 ![Wine Quality drawio (1)](https://github.com/user-attachments/assets/4650a2d4-bd97-4641-9788-162e47d6a275)
